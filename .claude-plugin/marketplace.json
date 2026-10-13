@@ -10,7 +10,7 @@
     {
       "name": "multi-persona-review-panel",
       "description": "Run three or four independent reviewer lenses (architecture, security, quality, performance) on your diff before the PR; each returns findings with file and line and a SIGN / SIGN-WITH-CHANGE / BLOCK verdict.",
-      "author": { "name": "Vivek Iyer", "url": "https://github.com/FortunaTerra-Group" },
+      "author": { "name": "Vivek Iyer (FortunaTerra)", "url": "https://github.com/FortunaTerra-Group" },
       "category": "development",
       "source": { "source": "github", "repo": "FortunaTerra-Group/multi-persona-review-panel-skill" },
       "homepage": "https://github.com/FortunaTerra-Group/multi-persona-review-panel-skill",
@@ -19,7 +19,7 @@
     {
       "name": "usability-heuristic-review",
       "description": "Heuristic evaluation of an already-shipped UI surface: Nielsen's ten heuristics, a severity on every finding, a cross-surface coherence audit, and a persona-resonance check. Findings report only, never a redesign.",
-      "author": { "name": "Vivek Iyer", "url": "https://github.com/FortunaTerra-Group" },
+      "author": { "name": "Vivek Iyer (FortunaTerra)", "url": "https://github.com/FortunaTerra-Group" },
       "category": "design",
       "source": { "source": "github", "repo": "FortunaTerra-Group/usability-heuristic-review-skill" },
       "homepage": "https://github.com/FortunaTerra-Group/usability-heuristic-review-skill",
@@ -28,7 +28,7 @@
     {
       "name": "governed-build-loop",
       "description": "Write a goal contract before touching code: goal, acceptance predicates, pin policy, budget, a spine/slices/waves decomposition, a do-not list, an evidence contract, and an independent review of the contract itself.",
-      "author": { "name": "Vivek Iyer", "url": "https://github.com/FortunaTerra-Group" },
+      "author": { "name": "Vivek Iyer (FortunaTerra)", "url": "https://github.com/FortunaTerra-Group" },
       "category": "development",
       "source": { "source": "git-subdir", "url": "https://github.com/FortunaTerra-Group/goal-contract.git", "path": "plugin", "ref": "main" },
       "homepage": "https://github.com/FortunaTerra-Group/goal-contract/tree/main/plugin",
